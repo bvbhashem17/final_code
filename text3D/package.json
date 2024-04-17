@@ -1,0 +1,19 @@
+{
+  "name": "text3d",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  },
+  "dependencies": {
+    "three": "^0.161.0",
+    "whitestorm": "^0.10.7",
+    "whitestormjs": "^0.11.2"
+  }
+}
